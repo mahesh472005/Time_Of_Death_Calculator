@@ -1,3 +1,7 @@
+# Time of Death Calculator
+
+A production-ready forensic application implementing Newton's Law of Cooling for time of death estimation, built with Java 21, Spring Boot 3.x, and React with Vite.
+
 ## Screenshots
 
 ### Main Interface
@@ -5,11 +9,6 @@
 
 ### Results Screen
 ![Time of Death Calculator - Results](assets/images/Screenshot1.png)
-
-
-# Time of Death Calculator
-
-A production-ready forensic application implementing Newton's Law of Cooling for time of death estimation, built with Java 21, Spring Boot 3.x, and React with Vite.
 
 ## 📋 Overview
 
