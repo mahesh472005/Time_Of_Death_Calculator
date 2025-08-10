@@ -1,10 +1,10 @@
 ## Screenshots
 
 ### Main Interface
-![Time of Death Calculator - Input Screen](assets/images/screenshot1.png)
+![Time of Death Calculator - Input Screen](assets/images/Screenshot1.png)
 
 ### Results Screen
-![Time of Death Calculator - Results](assets/images/screenshot2.png)
+![Time of Death Calculator - Results](assets/images/Screenshot2.png)
 
 
 # Time of Death Calculator
